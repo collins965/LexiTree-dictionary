@@ -1,0 +1,1 @@
+LexiTree is a command-line dictionary application that allows users to look up English words, view definitions and examples, hear pronunciations via text-to-speech or online audio, and save the results to a local SQLite database for offline use.
